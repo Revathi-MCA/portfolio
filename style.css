@@ -1,0 +1,73 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: "Young Serif", serif;
+    border: solid white 10px;
+}
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.section-one__name{
+    font-size: 40px;
+}
+.section-one__role{
+    margin-top: 10px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.section-one__contact{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding: 2px;
+    border: none;
+}
+.section-two{
+    padding: 10px;
+}
+.section-three{
+    background-color: purple;
+    color: black;
+    border-radius: 5px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 35px;
+}
+.section-four{
+    background-color: orangered;
+    color: black;
+    padding:25px ;
+    border-radius: 5px;
+    display: inline-block;
+    vertical-align: top;
+   
+}
+.section-three,.section-four{
+    list-style: none;
+}
+.section-five{
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    padding: 10px ;
+}
+.section-five__part{
+    color: lightseagreen;
+}
+.section-one,.section-two,.section-three,.section-four,.section-five{
+    margin-top: 20px;
+}
+.section-name{
+    border: none;
+    border-bottom: solid black 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+
+
+
+}
